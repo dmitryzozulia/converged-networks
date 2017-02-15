@@ -25,7 +25,7 @@ Wystepuja dwa typy sesji iSCSI:
 - --Normal operational session: nielimitowana sesja iSCSI.
 - --Discovery session: Ta sesja sluzy tylko do wykrywania celow iSCSI. Cel iSCSI przyjmuje tylko zapytania SendTargets.
 
-Typ sesji iSCSI definiowany jest podczas logowania iSCSI.
+Typ sesji iSCSI1 definiowany jest podczas logowania iSCSI.
 
 # Podsumowanie
 
